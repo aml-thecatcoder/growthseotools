@@ -1,0 +1,49 @@
+
+Version 1.0.1 (September 14, 2022)
+- NEW: Add YouTube Trend tool.
+- NEW: Add YouTube Tag Extractor tool.
+- NEW: Add YouTube Tag Generator tool.
+- NEW: Add YouTube Hashtag Extractor tool.
+- NEW: Add YouTube Hashtag Generator tool.
+- NEW: Add YouTube Title Extractor tool.
+- NEW: Add YouTube Title Generator tool.
+- NEW: Add YouTube Description Extractor tool.
+- NEW: Add YouTube Description Generator tool.
+- NEW: Add YouTube Embed Code Generator tool.
+- NEW: Add YouTube Channel ID tool.
+- NEW: Add YouTube Video Statistics tool.
+- NEW: Add YouTube Channel Statistics tool.
+- NEW: Add YouTube Money Calculator tool.
+- NEW: Add YouTube Region Restriction Checker tool.
+- NEW: Add YouTube Channel Logo Downloader tool.
+- NEW: Add YouTube Channel Banner Downloader tool.
+- NEW: Add YouTube Channel Search tool.
+- NEW: Add Article Rewriter tool.
+- NEW: Add Backlink Checker tool.
+- NEW: Add URL Rewriting tool.
+- NEW: Import new Tools.
+- NEW: Import new Translations from the Default Language.
+- NEW: Disable email verification.
+- NEW: Lazy Loading feature.
+- NEW: Back to top feature.
+- NEW: The option to display the number of posts in the Blog.
+- NEW: The feature to change the position of tools.
+- NEW: Background color options for related tools.
+- ENHANCEMENT: Improved SMTP settings.
+- ENHANCEMENT: Remove untranslated languages link in sitemap.
+- ENHANCEMENT: Remove custom links in sitemap.
+- ENHANCEMENT: Improved Alexa Rank Checker tool.
+- ENHANCEMENT: Improved Keyword Density Checker tool.
+- ENHANCEMENT: Improved Google Index Checker tool.
+- ENHANCEMENT: Improved Google Cache Checker tool.
+- ENHANCEMENT: Improved Credit Card Validator tool.
+- FIXED: Sticky header.
+- FIXED: White page when changing the app name.
+- FIXED: Error 500 when activating maintenance mode.
+- FIXED: Error 500 when clearing cache.
+- FIXED: Error displaying with long title in the sidebar.
+- FIXED: Maintenance Mode.
+- Minor bug fixes.
+
+Version 1.0.0 (April 19, 2022)
+ - Initial release.
