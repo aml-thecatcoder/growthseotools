@@ -50,7 +50,7 @@ class CrawlBlogs extends Command
                 // $crawler = $client->request('GET', 'https://www.searchenginejournal.com/category/' . $menu);
                 // $lastPage = $crawler->filter('ul.page-numbers li:nth-child(5) a')->text();
                 // $i = ceil(((int) $lastPage) / 4);
-                $i = 20;
+                $i = 15;
                 while ($i > -1) {
                     $crawler = $client->request('GET', 'https://www.searchenginejournal.com/category/' . $menu . '/page/' . $i);
                     $crawler->filter('#archives-wrapper article')->each(function ($article) use ($client) {
